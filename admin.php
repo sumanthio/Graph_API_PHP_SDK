@@ -5,10 +5,10 @@
 session_start();
 
 //Facebook settings:
-$app_id='312096898995017';
-$app_secret='a4d5b0e00468c0d8c375d41cfab7eb54';
-$redirect_to_url='http://localhost:1024/crayon_mark_2/#/login';
-$logout_url='http://localhost:1024/crayon_mark_2/logout.php';
+$app_id='your app id';
+$app_secret='your app secret';
+$redirect_to_url='login url';
+$logout_url='logout url';
 
 //Permissions (to be approved by the user) used for the app
 $permissions=array(

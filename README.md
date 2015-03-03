@@ -1,5 +1,5 @@
 # Graph_API_PHP_SDK
-Facebook-Graph API
+ ## Facebook-Graph API
 
 The Graph API is the primary way to get data in and out of Facebook's social graph. It's a low-level HTTP-based API that you can use to query data, post new stories, upload photos and a variety of other tasks that an app might need to do.
 
@@ -18,10 +18,7 @@ Most Graph API requests will require the use of access tokens which your app can
 
 
 
-
-
-
-Access Tokens:
+## Access Tokens:
 An access token is basically an ID that is required in order to make calls to the Graph API. The token identifies the following:
 
 The Facebook app ID that is making the request
